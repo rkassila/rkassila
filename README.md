@@ -12,6 +12,6 @@ I'm a data enthusiast with a focus on leveraging insights for healthcare innovat
 - 📊 **Data Analysis**: Proficient in analyzing large datasets to extract valuable insights.
 - 🧠 **Machine Learning**: Applying algorithms to predict outcomes and enhance decision-making processes.
 - 📈 **Data Visualization**: Crafting compelling visual narratives to communicate complex findings.
-- 💻 **Programming**: Fluent in languages such as Python, R, and SQL for efficient data manipulation and analysis.
+- 💻 **Programming**: Fluent in languages such as Python and SQL for efficient data manipulation and analysis.
 
 Let's connect and collaborate on innovative projects! 🚀
