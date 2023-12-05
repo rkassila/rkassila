@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hi, I'm Réda! 👋
 
-<!--
-**rkassila/rkassila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a data enthusiast with a focus on leveraging insights for healthcare innovation. I recently completed the Data Science and AI training at Le Wagon.
 
-Here are some ideas to get you started:
+## Project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [MedicalAImaging](https://github.com/rkassila/Medical_AImaging)
+
+- Automated Diseases Detection in MR & CT Images
+- Harnessing machine learning to enhance diagnostics and optimize patient care.
+
+## Skills
+
+- **Data Analysis**: Proficient in analyzing large datasets to extract valuable insights.
+- **Machine Learning**: Applying algorithms to predict outcomes and enhance decision-making processes.
+- **Data Visualization**: Crafting compelling visual narratives to communicate complex findings.
+- **Programming**: Fluent in languages such as Python and SQL for efficient data manipulation and analysis.
+
+Let's connect and collaborate on innovative projects! 🚀
