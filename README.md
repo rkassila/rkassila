@@ -5,8 +5,8 @@ I recently completed the Data Science and AI training at Le Wagon Tokyo.
 
 ### [MedicalAImaging](https://github.com/rkassila/Medical_AImaging)
 
-- 🤖 Automated Diseases Detection in MR & CT Images
-- Harnessing machine learning to enhance diagnostics and optimize patient care.
+- 🩻 Automated Diseases Detection in MR & CT Images
+- 🤖 Harnessing machine learning to enhance diagnostics and optimize patient care.
 
 ## Skills
 
