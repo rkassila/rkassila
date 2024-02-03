@@ -16,3 +16,14 @@ I recently completed the Data Science and AI training at Le Wagon Tokyo.
 - 💻 **Programming**: Fluent in languages such as Python and SQL for efficient data manipulation and analysis.
 
 Let's connect and collaborate on innovative projects! 🚀
+
+---
+![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&logoColor=white&color=00008B)
+![](https://img.shields.io/badge/Pandas-Data-00008B?style=flat&logo=pandas&logoColor=white)
+![](https://img.shields.io/badge/Scikit--learn-Machine%20Learning-00008B?style=flat&logo=scikit-learn&logoColor=white)
+![](https://img.shields.io/badge/TensorFlow-Deep%20Learning-00008B?style=flat&logo=tensorflow&logoColor=white)
+![](https://img.shields.io/badge/SQL-Database-00008B?style=flat&logo=sql&logoColor=white)
+![](https://img.shields.io/badge/Jupyter-Notebook-00008B?style=flat&logo=jupyter&logoColor=white)
+![](https://img.shields.io/badge/Docker-Container-00008B?style=flat&logo=docker&logoColor=white)
+![](https://img.shields.io/badge/Fast-API-00008B?style=flat&logo=fastapi&logoColor=white)
+![](https://img.shields.io/badge/Google%20Cloud-Services-00008B?style=flat&logo=googlecloud&logoColor=white)
