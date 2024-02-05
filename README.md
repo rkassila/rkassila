@@ -27,3 +27,6 @@ Let's connect and collaborate on innovative projects! 🚀
 ![](https://img.shields.io/badge/Docker-Container-00008B?style=flat&logo=docker&logoColor=white)
 ![](https://img.shields.io/badge/Fast-API-00008B?style=flat&logo=fastapi&logoColor=white)
 ![](https://img.shields.io/badge/Google%20Cloud-Services-00008B?style=flat&logo=googlecloud&logoColor=white)
+
+---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rkassila&hide=Jupyter%20Notebook&layout=compact)
