@@ -30,3 +30,6 @@ Let's connect and collaborate on innovative projects! 🚀
 
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rkassila&hide=Jupyter%20Notebook&layout=compact)
+
+---
+![](https://komarev.com/ghpvc/?username=rkassila)
