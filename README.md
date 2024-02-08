@@ -1,4 +1,4 @@
-I'm a data enthusiast with a focus on leveraging insights for healthcare innovation. 
+Hello ! I'm a data enthusiast with a focus on leveraging insights for healthcare innovation. 
 I am a alumni of Data Science and AI training at Le Wagon Tokyo.
 
 ## Project
