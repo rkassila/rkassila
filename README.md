@@ -8,6 +8,11 @@ I am a alumni of Data Science and AI training at Le Wagon Tokyo.
 - 🩻 Automated Diseases Detection in MR & CT Images
 - 🤖 Harnessing machine learning to enhance diagnostics and optimize patient care.
 
+### [MLOps Audio Classification](https://github.com/rkassila/mlops-audio_classification)
+
+- End-to-end audio classification pipeline
+- HuggingFace datasets, GCS, PostgreSQL, MLflow for model tracking and Prometheus/Grafana for monitoring
+
 ## Skills
 
 - 📊 **Data Analysis**: Proficient in analyzing large datasets to extract valuable insights.
