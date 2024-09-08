@@ -1,7 +1,7 @@
 Hello ! I'm a data enthusiast with a focus on leveraging insights for healthcare innovation. 
 I am a alumni of Data Science and AI training at Le Wagon Tokyo.
 
-## Project
+## Projects
 
 ### [MedicalAImaging](https://github.com/rkassila/Medical_AImaging)
 
@@ -10,6 +10,7 @@ I am a alumni of Data Science and AI training at Le Wagon Tokyo.
 
 ### [MLOps Audio Classification](https://github.com/rkassila/mlops-audio_classification)
 
+- Focused on MLOps
 - End-to-end audio classification pipeline
 - HuggingFace datasets, GCS, PostgreSQL, MLflow for model tracking and Prometheus/Grafana for monitoring
 
