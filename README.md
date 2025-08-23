@@ -15,7 +15,7 @@ I am a alumni of Data Science and AI training at Le Wagon Tokyo and currently wo
 - HuggingFace datasets, GCS, PostgreSQL, MLflow for model tracking and Prometheus/Grafana for monitoring
 
 ## Skills
-- ☁️ **Cloud (GCP)** Designing and managing cloud solutions on Google Cloud Platform.
+- ☁️ **Cloud (GCP)**: Designing and managing cloud solutions on Google Cloud Platform.
 - 📊 **Data Analysis**: Proficient in analyzing large datasets to extract valuable insights.
 - 🧠 **Machine Learning**: Applying algorithms to predict outcomes and enhance decision-making processes.
 - 📈 **Data Visualization**: Crafting compelling visual narratives to communicate complex findings.
