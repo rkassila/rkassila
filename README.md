@@ -1,5 +1,5 @@
-Hello ! I'm a data enthusiast with a focus on leveraging insights for healthcare innovation. 
-I am a alumni of Data Science and AI training at Le Wagon Tokyo.
+Hello! I'm a cloud and data enthusiast exploring cloud technologies (GCP) to build reliable systems. 
+I am a alumni of Data Science and AI training at Le Wagon Tokyo and currently working as a Cloud Engineer (GCP).
 
 ## Projects
 
@@ -15,7 +15,7 @@ I am a alumni of Data Science and AI training at Le Wagon Tokyo.
 - HuggingFace datasets, GCS, PostgreSQL, MLflow for model tracking and Prometheus/Grafana for monitoring
 
 ## Skills
-
+- ☁️ **Cloud (GCP)** Designing and managing cloud solutions on Google Cloud Platform.
 - 📊 **Data Analysis**: Proficient in analyzing large datasets to extract valuable insights.
 - 🧠 **Machine Learning**: Applying algorithms to predict outcomes and enhance decision-making processes.
 - 📈 **Data Visualization**: Crafting compelling visual narratives to communicate complex findings.
