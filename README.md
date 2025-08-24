@@ -1,4 +1,4 @@
-Hello! I'm a cloud and data enthusiast exploring cloud technologies (GCP) to build reliable systems. 
+Hello! I'm a Cloud and Data enthusiast exploring cloud technologies (GCP) to build reliable systems. 
 I am a alumni of Data Science and AI training at Le Wagon Tokyo and currently working as a Cloud Engineer (GCP).
 
 ## Projects
@@ -7,6 +7,17 @@ I am a alumni of Data Science and AI training at Le Wagon Tokyo and currently wo
 
 - 🩻 Automated Diseases Detection in MR & CT Images
 - 🤖 Harnessing machine learning to enhance diagnostics and optimize patient care.
+
+
+### [Cloud Run CI/CD with GitHub Actions](https://github.com/rkassila/cloudrun-cicd-demo)
+- Automated deployment of a Python/FastAPI app on **Cloud Run**  
+- Dockerized app built and deployed via **GitHub Actions** and GCP **Artifact Registry**
+
+
+### [Kubernetes with Terraform (GKE)](https://github.com/rkassila/gke-terraform-demo)
+- Infrastructure-as-Code for provisioning **Google Kubernetes Engine** clusters  
+- Managed entirely with **Terraform**  
+
 
 ### [MLOps Audio Classification](https://github.com/rkassila/mlops-audio_classification)
 
