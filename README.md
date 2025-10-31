@@ -1,5 +1,5 @@
-Hello! I'm a Cloud and Data enthusiast exploring cloud technologies (GCP) to build reliable systems. 
-I am a alumni of Data Science and AI training at Le Wagon Tokyo and currently working as a Cloud Engineer (GCP).
+Hello! I'm a Data & AI enthusiast exploring cloud technologies (GCP) to build reliable systems. 
+I am a alumni of Data Science and AI training at Le Wagon Tokyo and currently working as a Systems Engineer in Data & Cloud solutions.
 
 ## Projects
 
