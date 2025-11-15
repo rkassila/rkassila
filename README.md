@@ -3,7 +3,8 @@ I am a alumni of Data Science and AI training at Le Wagon Tokyo and currently wo
 
 ## Projects
 
-### [Automated Sales Reporting with AI/LLM Insights](https://github.com/cloud_functions_gappsxopenai)
+### Automated Sales Reporting with AI/LLM
+##### [Presentation](https://github.com/rkassila/gapps-generating-sales-presentation)  /   [PDF Report](https://github.com/rkassila/gapps-report-sheets)
 
 **Stack:** Google Cloud Functions + OpenAI + Google Apps Script
 
