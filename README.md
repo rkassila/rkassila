@@ -3,10 +3,14 @@ I am a alumni of Data Science and AI training at Le Wagon Tokyo and currently wo
 
 ## Projects
 
+### [Logistics Automation App](https://github.com/rkassila/autologistics)
+**Stack:** Cloud Run - OpenAI - PostgreSQL - Cloud Storage - Streamlit  
+A simple logistics document processing application with PDF upload, text extraction, and structured field parsing using OpenAI.
+
 ### Automated Sales Reporting with AI/LLM
 ##### [Presentation](https://github.com/rkassila/gapps-generating-sales-presentation)  /   [PDF Report](https://github.com/rkassila/gapps-report-sheets)
 
-**Stack:** Google Cloud Functions + OpenAI + Google Apps Script
+**Stack:** Google Cloud Functions - OpenAI - Google Apps Script
 
 - ✨ **One-click sales reports** with AI/LLM insights
 - 📊 **Auto-generated visuals** and Google Slides integration
