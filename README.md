@@ -14,7 +14,6 @@ A simple logistics document processing application with PDF upload, text extract
 
 - ✨ **One-click sales reports** with AI/LLM insights
 - 📊 **Auto-generated visuals** and Google Slides integration
-- 🚀 **No storage quota issues** – images embedded directly
 
 ### [MedicalAImaging](https://github.com/rkassila/Medical_AImaging)
 
