@@ -57,7 +57,8 @@ Let's connect and collaborate on innovative projects! 🚀
 ![](https://img.shields.io/badge/Google%20Cloud-Services-00008B?style=flat&logo=googlecloud&logoColor=white)
 
 ---
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rkassila&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rkassila&hide=Jupyter%20Notebook&layout=compact)
 
----
+----->
 ![](https://komarev.com/ghpvc/?username=rkassila&color=00008B&style=flat)
