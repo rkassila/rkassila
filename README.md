@@ -1,4 +1,4 @@
-Hello! I'm a Data & AI engineer exploring cloud technologies to build reliable systems.
+Hello! I'm a Data & AI engineer working on automations systems to improve teams productivity.
 
 ## Projects
 
